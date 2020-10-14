@@ -1,4 +1,4 @@
-# java
+# java mis à jour en octobre 2020
 # mes essais et démonstrations java
 # compte github : mamagalubru
 # repository github : https://github.com/mamagalubru/java.git
